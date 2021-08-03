@@ -1,4 +1,4 @@
-# User Manager
+# News Manager
 #### To deploy you need
 1. Download the project or only one docker-compose file.
 2. Go to directory with docker-compose file.
